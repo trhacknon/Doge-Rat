@@ -85,7 +85,7 @@ A multifunctional Telegram based Android RAT  without port forwarding.
 ![App Screenshot](https://999xprofit.com/dogs/15.jpg)
 
 ### ❤️Thank you Supporters❤️
-[![Stargazers repo roster for @shivaya-dav/DogeRat](https://reporoster.com/stars/dark/shivaya-dav/DogeRat)](https://github.com/shivaya-dav/DogeRat/stargazers)
+[![Stargazers repo roster for @shivaya-dav/DogeRat](https://reporoster.com/stars/dark/shivaya-dav/DogeRat)](https://github.com/trhacknon/DogeRat/stargazers)
 ## 🔗 CONTACT
 [![instagram](https://img.shields.io/badge/CONTACT-TELEGRAM-blue)](https://t.me/shivayadavv)
 
